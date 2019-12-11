@@ -26,7 +26,7 @@ public class LearnIf : MonoBehaviour
             //if()內的布林值為false執行else{}
             print("不開~");
         }
-        if (score = 60)
+        if (score == 60)
         {
             print("及格");
         }
