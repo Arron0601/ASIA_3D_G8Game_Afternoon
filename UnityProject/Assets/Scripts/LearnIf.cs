@@ -9,7 +9,7 @@ public class LearnIf : MonoBehaviour
     {
          //語法if(布林值) {陳述式或演算法}
    //()內的林值為true執行{}
-   if (false)
+   if (true)
 	{
             print("yeyeyeyeyeyeyeye");
 	}
